@@ -1,0 +1,2 @@
+This is (some of) the official Analog Devices evaluation board source code
+and Windows DotNET driver app. The EVB uses a Cypress EZUSB chip.
