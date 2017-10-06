@@ -1,0 +1,38 @@
+http://www.home.earthlink.net/~christrask/TraskTLTTutorial.pdf
+http://www.highfrequencyelectronics.com/Dec05/HFE1205_Trask.pdf
+http://www.highfrequencyelectronics.com/Jan06/HFE0106_TraskPart2.pdf
+
+Jerry Sevick's book, 4E:
+https://ia902709.us.archive.org/6/items/fe_Transmission_Line_Transformers/Transmission_Line_Transformers.pdf
+
+http://ecee.colorado.edu/microwave/docs/publications/2010/Negar-transformers.pdf
+http://educypedia.karadimov.info/library/HFE0204_Sevick.pdf
+http://een.iust.ac.ir/profs/Tayarani/files/transmission%20line%20transformer.pdf
+http://home.scarlet.be/on9cvd/E-Transmissielijn%20trafo%27s,%20voorbeelden.htm
+http://jewsnet.org/Documents/ARRL.2010.Handbook/program%20files/ARRL%202010%20Handbook/Supplemental%20Files/Chapter%2020/Transmission%20Line%20Transformers.pdf
+http://k5tra.net/tech%20library/RF%20transformers/Transmission-Line%20Transformers.pdf
+http://n5dux.com/ham/files/pdf/Transmission%20Line%20Transformer%20Basics.pdf
+http://www.eaiib.agh.edu.pl/files/943/Wincza_monografia_habilitacyjna.pdf 
+http://www.frenning.dk/OZ1PIF_HOMEPAGE/AN749.pdf
+http://www.shinhom.com/En/rf/RF7S-2010-D220.pdf
+
+NON-UNIFORM TRANSMISSION LINE TRANSFORMERS:
+http://www.jpier.org/PIER/pier113/16.11011110.pdf
+
+Modeling and Studies of Broadband Transmission Line Transformers:
+http://iasir.net/AIJRSTEMpapers/AIJRSTEM13-126.pdf
+
+Magnetic Materials for Broadband Transmission Line Transformers:
+http://www.highfreqelec.summittechmedia.com/Jan05/HFE0105_Sevick.pdf 
+
+Amidon - Transmission Line Transformers Handbook.pdf
+http://www.introni.it/pdf/Amidon%20-%20Transmission%20Line%20Transformers%20Handbook.pdf
+
+HIGH-IMPEDANCE DC-ISOLATING TRANSMISSION LINE TRANSFORMERS
+https://patentimages.storage.googleapis.com/pdfs/US20110279209.pdf 
+
+https://patentimages.storage.googleapis.com/pdfs/US7548134.pdf 
+
+
+Rotholz:
+http://ieeexplore.ieee.org/document/1130352/
